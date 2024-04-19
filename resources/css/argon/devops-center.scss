@@ -1,0 +1,322 @@
+a,
+button,
+input,
+select {
+    outline: none;
+}
+
+.navbar-toggler-icon {
+    background-image: url('/img/burger-menu.svg');
+    width: 1.25em;
+    height: 1.25em;
+}
+
+.skew-separator:after {
+    height: 100px;
+}
+
+.feature-insight {
+    padding-top: 6rem;
+}
+
+.navbar-brand {
+    text-transform: none;
+    font-size: 1rem;
+}
+
+.navbar-brand img {
+    height: 40px;
+    image-rendering: -webkit-optimize-contrast;
+}
+
+.btn-danger:hover {
+    background-color: #f5365c;
+}
+
+/* .pagination nav {
+    display: none;
+} */
+
+.read-more-link {
+    font-weight: 600;
+}
+.read-more-link:hover {
+    text-decoration: underline;
+}
+
+.description-link {
+    color: white;
+}
+.description-link:hover, .description-link:active, .description-link:focus {
+    color: #5e72e4;
+}
+
+.page-header-blog {
+    min-height: 50vh;
+}
+.page-header-blog .container {
+    margin-top: 0vh;
+    margin-bottom: 40px;
+}
+.page-header-blog .row-floating {
+    padding: 0 5px;
+}
+.page-header-blog .floating-box {
+    margin-top: 5em;
+}
+
+.cookie-banner {
+	border-radius: 10px;
+	bottom: 6px;
+	left: 50%;
+	padding: 12px 16px;
+	position: fixed;
+	transform: translateX(-50%);
+    z-index: 99;
+    font-size: 12px;
+}
+
+.cookie-banner .alert-inner--text {
+    opacity: 0.9;
+}
+
+.cookie-banner .link {
+    color:white;
+    text-decoration: underline;
+}
+
+.cookie-banner .close>span:not(.sr-only){
+    color: white;
+    opacity: 0.9;
+    width: 100%;
+}
+.cookie-banner .close span {
+    opacity: 0.9;
+    margin-right: -10px;
+}
+
+.cookie-banner .accept {
+    background: white;
+    text-transform: none;
+    font-size: 12px;
+    padding: 0.25rem 1.25rem !important;
+}
+
+.taxonomy .choices {
+    padding-bottom: 0.75rem;
+    border: 1px solid #cad1d7;
+    border-radius: 0.25rem;
+}
+
+.taxonomy .choices__inner {
+    height: auto;
+}
+
+.search-taxonomy .choices {
+    border: 1px solid #cad1d7;
+    border-radius: 0.25rem;
+}
+
+.search-taxonomy .choices__inner {
+    height: auto;
+}
+
+.carousel{
+    width:98%;
+    margin:0px auto;
+  }
+
+
+.slick-slide{
+    margin:20px;
+}
+
+.nextArrowBtn{
+    position: absolute;
+    z-index: 1000;
+    top: 45%;
+    right: 0;
+    color: #BFAFB2;
+}
+.prevArrowBtn{
+    position: absolute;
+    z-index: 1000;
+    top: 45%;
+    left: 0;
+    color: #BFAFB2;
+}
+
+.slick-track
+{
+    display: flex !important;
+}
+
+.slick-slide
+{
+    height: inherit !important;
+    display: flex !important;
+}
+
+.dataTables_wrapper .dataTables_paginate .paginate_button,
+.dataTables_wrapper .dataTables_paginate .paginate_button.current,
+.dataTables_wrapper .dataTables_paginate .paginate_button:hover,
+.dataTables_wrapper .dataTables_paginate .paginate_button.current:hover {
+    background: #172b4d !important;
+    color: white !important;
+    cursor: pointer !important;
+    border-radius: 25px;
+    border: none;
+}
+.dataTables_wrapper .dataTables_paginate .paginate_button,
+.dataTables_wrapper .dataTables_paginate .paginate_button:hover {
+    background: transparent !important;
+    color: #172b4d !important;
+    cursor: pointer !important;
+    border: none;
+}
+.dataTables_wrapper .dataTables_paginate .paginate_button.next,
+.dataTables_wrapper .dataTables_paginate .paginate_button.previous,
+.dataTables_wrapper .dataTables_paginate .paginate_button.next:hover,
+.dataTables_wrapper .dataTables_paginate .paginate_button.previous:hover {
+    background: transparent !important;
+    color: #172b4d !important;
+    cursor: pointer !important;
+    border: none;
+}
+
+.choices[data-type*="select-multiple"] .choices__button:after, .choices[data-type*="text"] .choices__button:after {
+    font-family: 'Font Awesome 5 Free';
+    content: "\f057";
+}
+
+.choices[data-type*="select-multiple"] .choices__input--cloned {
+  display: inline !important;
+  min-width: 20ch !important;
+  width: 20ch !important;
+}
+
+/* .taxonomy .choices[data-type*="select-multiple"] .choices__input--cloned {
+    display: inline !important;
+    min-width: 20ch !important;
+    width: 20ch !important;
+  } */
+
+.taxonomy .choices .choices__inner .choices__input--cloned  {
+    display: inline !important;
+    min-width: 10ch !important;
+}
+
+.jsoneditor {
+    border: 1px solid #cad1d7;
+    border-radius: 10px 10px 0 0;
+}
+
+.jsoneditor .jsoneditor-menu {
+    border-radius: 9px 9px 0 0;
+}
+.jsoneditor .jsoneditor-frame {
+    border-radius: 5px;
+}
+
+.card-background.card-grande:after{
+    background: rgba(0, 0, 0, 0.4);
+}
+
+.blue-line {
+    width: 40px; 
+    height: 15px; 
+    background: #0f88ef;
+    display: inline-block;
+    margin-right: 10px;
+}
+.violet-line {
+    width: 40px; 
+    height: 15px; 
+    background: #7b62e3;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+#g-recaptcha-response {
+    display: block !important;
+    position: absolute;
+    margin: -78px 0 0 0 !important;
+    width: 302px !important;
+    height: 76px !important;
+    z-index: -999999;
+    opacity: 0;
+}
+
+.badge-secondary:hover {
+    --degree: 90deg;
+    background: #113459;
+    color: white;
+    transform: scale(1.05); 
+}
+
+.card-hover-animation {
+    transition: all;
+}
+
+.card-hover-animation:hover {
+    --degree: 90deg;
+    background: linear-gradient(var(--degree), #113459, #4d80b6) !important;
+    transition-duration: 0.5s;
+    transform: scale(1.05);
+}
+.card-hover-animation:hover i {
+    color: #113459;
+    animation: shake 0.5s;
+    animation-iteration-count: 1;
+}
+
+.feature-card-lighten {
+    opacity: .85;
+}
+
+.card-hover-animation:hover .icon-sm i {
+    font-size: 1.15rem;
+}
+.card-hover-animation:hover .icon-lg i {
+    font-size: 2rem;
+}
+@keyframes shake {
+    100% { transform: rotate(360deg); }
+}
+
+.co-founder-img {
+    @media (min-width: 768px) {
+        filter: grayscale(1);
+    }
+    box-shadow: 0 20px 25px -5px rgb(0 0 0 / 0.1), 0 8px 10px -6px rgb(0 0 0 / 0.1);
+}
+.co-founder-img:hover {
+    @media (min-width: 768px) {
+        filter: grayscale(0);
+    }
+}
+
+img{
+    -webkit-user-drag: none;
+}
+
+.service-header-h1 {
+    font-size: 2.75rem;
+    font-weight: 600;
+    line-height: 1.5;
+    @media (max-width: 768px) {
+        font-size: 1.6275rem;
+        font-weight: 600;
+        line-height: 1.5;
+    }
+}
+.service-header-h2 {
+    font-size: 2.1875rem;
+    font-weight: 600;
+    line-height: 1.5;
+    @media (max-width: 768px) {
+        font-size: 1.4275rem;
+        font-weight: 600;
+        line-height: 1.25;
+    }
+}

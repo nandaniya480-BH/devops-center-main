@@ -1,0 +1,109 @@
+{
+    "navigation": {
+        "homepage": "Homepage",
+        "about_us": "About Us",
+        "profile": "Profile Pods",
+        "career": "Career"
+    },
+    "header": {
+        "header_description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    "homepage": {
+        "insight_badge": "Service",
+        "insight_title": "Service",
+        "insight_description": "Service",
+        "insight_first_list": {
+                "0": "<li>Agile Pod Models:<\/li>",
+                "1": "<li>Agile Staff Augmentation <br>(our Pod Model)</li>"
+        },
+        "insight_first_list_item_title": "Agile Staff Augmentation <br>(our Pod Model)",
+        "insight_first_list_item_content": "<li>Agile Pod Models:<\/li><li>TechTalents<\/li>",
+        "insight_second_list_item_title": "Nearshore Partnership \u2013 DevOps-Center",
+        "insight_second_list_item_content": "(Switzerland, Germany, Kosovo, Albania & Northan Macedonia)",
+        "insight_third_list_item_title": "Individual Software-Solution",
+        "insight_third_list_item_content": "Full Stack Web, Andriod, IOS, Mobile Cross Paltform, Quality Engineering, Big Data & Analytics, DevOps annd Agile Leadership",
+        "insight_link_text": "Find out more ...",
+        "profile_list_title": "Profile Pods",
+        "profile_list_see_all_button_text": "See all Profiles",
+        "contact_section_title": "Got a question ?",
+        "contact_section_description": "We'd like to talk more about what you need",
+        "contact_section_address": "Chemin de la Florence 29, <br> 1208 Zurich <br> Switzerland",
+        "contact_section_telephone": "+1(424) 535 3523",
+        "contact_section_email": "info@devops-center.ch"
+    },
+    "about-us": {
+        "first_section_title": "About us",
+        "first_section_description": "We are a Swiss based nearshore DevOps-Center with five Location in Europe (Switzerland, Germany, Albania, Kosovo and Northan Macedonia). A combination of high-level technological skills and business processes knowledge located closed to our clients allowesus to provide our clients the the best-in class services around IT Nearshore Partnership.",
+        "second_section_title": "Services",
+        "second_section_description": "",
+        "third_section_title": "Agile staff Augmentation (Agile Pod Model)",
+        "third_section_description": "Desc: We offer our customers the possibility to flexibly increase their current staff with the possibility to get quick access to our qualified and experienced personnel at any time, based on their planning, e.g. (SAFe) Pi Planning, for a 12-week Pi-Planning or for several PI-Planning’s.",
+        "third_section_first_item_list_title": "Our Agile Pod Models:",
+        "third_section_first_item_list":{
+            "0": "<li>Individual Experts<\/li>",
+            "1": "<li>Agile Pod Team</li>"
+        },
+        "third_section_second_item_list_title": "Our TechTalents-Experts:",
+        "third_section_second_item_list":{
+            "0": "<li>Software development engineers (FE,BE &Fullstack)<\/li>",
+            "1": "<li>Quality assurance engineers</li>",
+            "2": "<li>Web designers & UX specialists</li>",
+            "3": "<li>Mobile Developers (Andriod & IOS)</li>",
+            "4": "<li>DevOps Engineers</li>",
+            "5": "<li>Application and System Engineers</li>",
+            "6": "<li>Agile Leadership (RTE, SM, PO) and Tech Leads</li>"
+        },
+        "4th_section_title": "Nearshore Partnership – DevOps-Center",
+        "4th_section_description": "We are a Swiss based nearshore DevOps-Center with five Location in Europe (Switzerland, Germany, Albania, Kosovo and Northan Macedonia). A combination of high-level technological skills and business processes knowledge located closed to our clients allowesus to provide our clients the the best-in class services around IT Nearshore Partnership.",
+        "profile_teaser_title": "Profile pods",
+        "profile_teaser_description": "We are a Swiss based nearshore DevOps-Center with five Location in Europe (Switzerland, Germany, Albania, Kosovo and Northan Macedonia). A combination of high-level technological skills and business processes knowledge located closed to our clients allowesus to provide our clients the the best-in class services around IT Nearshore Partnership.",
+        "profile_teaser_button_text": "See all developer profiles"
+    },
+    "profile_search_page": {
+        "page_title": "Profile pods",
+        "page_filter_label": "Filters: ",
+        "tags_input_placeholder": "Choose tags",
+        "experience_select_placeholder": "# Level of Experience",
+        "button_search_text": "Search",
+        "no_profiles_found": "No Profiles found!",
+        "clear_filters": "Clear Filters"
+    },
+    "career_page": {
+        "page_title": "Latest jobs",
+        "apply_now_text": "Apply now",
+        "social_tooltip_linkedin": "See on LinkedIn",
+        "social_tooltip_xing": "See on Xing",
+        "read_more": "read more",
+        "related_jobs": "Related Jobs"
+    },
+    "job_section_list": {
+        "see_all_jobs": "See all jobs"
+    },
+    "job_description_page": {
+        "contact_person": "Contact person",
+        "apply_on_linkedin": "Apply on LinkedIn",
+        "apply_on_xing": "Apply on Xing",
+        "apply_now": "Apply now",
+        "social_tooltip_linkedin": "See on LinkedIn",
+        "social_tooltip_xing": "See on Xing"
+    },
+    "jobs_lists": {
+        "default_title": "Latest Jobs",
+        "related_jobs_title": "Related Jobs",
+        "topic_jobs_title": "Topic",
+        "read_more": "read more",
+        "apply_now_text": "Apply now",
+        "social_tooltip_linkedin": "See on LinkedIn",
+        "social_tooltip_xing": "See on Xing"
+    },
+    "profile_lists": {
+        "default_profile_title": "Profile pods",
+        "related_profile_title": "Related Profile pods",
+        "homepage_profile_title": "Profile pods",
+        "read_more": "read more",
+        "topic": "Topic",
+        "profile_available_now": "Available Immediately",
+        "profile_available_future": "Available in: ",
+        "see_all_profiles_button": "See all profiles"
+    }
+}

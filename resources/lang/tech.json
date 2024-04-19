@@ -1,0 +1,47 @@
+{
+    "0": {
+        "name": "Full Stack Web",
+        "icon_class": "<i class=\"fas fa-layer-group\"><\/i>",
+        "color": "info"
+    },
+    "1": {
+        "name": "iOS",
+        "icon_class": "<i class=\"fab fa-apple\"><\/i>",
+        "color": "primary"
+    },
+    "2": {
+        "name": "Android",
+        "icon_class": "<i class=\"fab fa-android\"><\/i>",
+        "color": "success"
+    },
+    "3": {
+        "name": "Mobile Cross Platform",
+        "icon_class": "<i class=\"fas fa-mobile-alt\"><\/i>",
+        "color": "warning"
+    },
+    "4": {
+        "name": "DevOps",
+        "icon_class": "<i class=\"fas fa-cogs\"><\/i>",
+        "color": "danger"
+    },
+    "5": {
+        "name": "Big Data & Analytics",
+        "icon_class": "<i class=\"fas fa-chart-bar\"><\/i>",
+        "color": "info"
+    },
+    "6": {
+        "name": "Quality Engineering",
+        "icon_class": "<i class=\"fas fa-clipboard-check\"><\/i>",
+        "color": "default"
+    },
+    "7": {
+        "name": "Artificial Intelligence",
+        "icon_class": "<i class=\"fas fa-microchip\"><\/i>",
+        "color": "primary"
+    },
+    "8": {
+        "name": "Cloud",
+        "icon_class": "<i class=\"fas fa-cloud\"><\/i>",
+        "color": "info"
+    }
+}
